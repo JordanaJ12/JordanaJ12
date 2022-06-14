@@ -25,7 +25,7 @@
   <img align="center" alt="Joh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <!--<img align="right" alt="Joh-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/713937436765585480/741116105472606218/986406728784564285"> -->
+  <!-- <img align="center" alt="Joh-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/240416354_663963504997466_1147067898841668663_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=5EsyZNDUOp4AX9vVwLn&edm=ALbqBD0BAAAA&ccb=7-5&oh=00_AT9Jjp-uzv1h2gniebF_xWVOuA8zB0ubvaUzOlwCjnEiLA&oe=62AF620C&_nc_sid=9a90d6"> -->
    </div> 
    
   ##
@@ -40,3 +40,5 @@
  
  
 </div>
+  
+ 
