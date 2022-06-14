@@ -25,7 +25,7 @@
   <img align="center" alt="Joh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+   <!--<img align="right" alt="Joh-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/713937436765585480/741116105472606218/986406728784564285"> -->
    </div> 
    
   ##
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/negah_jojoh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
   
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/JordanaJ12/JordanaJ12/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
