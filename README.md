@@ -25,7 +25,7 @@
   <img align="center" alt="Joh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="Joh-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a-/AOh14GjXh5-v4Jl5j-v61F9-n634G6hqaJMtZd8SFfty=s288-p-no"> -->
+ <img align="right" alt="Joh-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a-/AOh14GjXh5-v4Jl5j-v61F9-n634G6hqaJMtZd8SFfty=s288-p-no">
    </div> 
    
   ##
