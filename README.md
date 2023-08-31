@@ -1,4 +1,4 @@
-##  Olá eu sou a Jordana Jesus, estudante e apaixonada por Tecnologia!
+##  Olá eu sou a Jordana Jesus, formada e apaixonada por Tecnologia!
 
 <!--
 **JordanaJ12/JordanaJ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
