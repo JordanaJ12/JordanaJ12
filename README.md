@@ -1,4 +1,4 @@
-##  Olá me chamo Jordana Jesus e sou apaixonada por Tecnologia e Dados!
+##  Olá, me chamo Jordana Jesus e sou apaixonada por Tecnologia e Dados!
 
 <!--Divisão com os status do meu github e de quais linguagens mais utilizadas: -->
  <div align="left"> 
